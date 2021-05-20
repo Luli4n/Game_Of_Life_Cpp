@@ -10,8 +10,8 @@ Translation:
 Press T to go to the next round.
 Press S to save or L to load. (It implements gamesaves).
 </i>
-
+<br/><br/>
 It is a console app fully written in polish. It works almost like original Game of Life but it has some improvements.
-
+<br/><br/>
 I've implemented a human which has a special ability and player can control him.
 There are new types of organisms which have various skills.
